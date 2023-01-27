@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: ALPR (Back, Front, DS)<br>👯 I’m looking to collaborate on: NGO's<br>🌱 I’m currently learning: Math of Data Science<br>💬 Ask me about: Python, Data Science<br>⚡ Fun fact: I have 3 nipples
+🔭 I’m currently working on: ALPR (Back, Front, DS)<br>👯 I’m looking to collaborate on: NGO's<br>🌱 I’m currently learning: Math of Data Science<br>💬 Ask me about: Python, Data Science<br>⚡ Fun fact: I have 3 nipples<br>🎓 I'm graduating in: Computer Science
 
 
 ## 🌐 Socials:
