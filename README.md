@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on: React.js and Django system<br>👯 I’m collaborating on NGO: Reprogramando a Quebrada +1 Code<br>🌱 I’m currently learning: Golang (Fiber), Fastapi and Django<br>💬 Ask me about: Python, OpenCV<br>⚡ Fun fact: I have 3 nipples<br>🎓 I'm graduating in: Computer Science
+🔭 I’m working on data engineering, full-stack development, and business intelligence <br>👯 I’m collaborating on QSP - Quick Start Project and Console.dev<br>🌱 I’m currently learning Nest.js and Tailwind<br>💬 Ask me about Python and for life advices<br>⚡ Fun fact, I have 3 nipples<br>🎓 I'm graduating in computer science
+<br><br>chez, I need find another template for here
 
 
 ## 🌐 Socials:
